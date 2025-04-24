@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Loading Watermelon",
+        "image": "/img/portfolio_watermelon.jpg",
+        "description": "Check the live demo of this project here:",
+        "link": "https://loadingwatermelon.netlify.app/"
+    },
+    {
+        "title": "Lluju",
+        "image": "/img/portfolio_lluju.jpg",
+        "description": "Check this website here:",
+        "link": "https://lluju.com/"
+    },
+    {
+        "title": "Molcajete Studios",
+        "image": "/img/portfolio_molcajete_studios.jpg",
+        "description": "Check the live demo of this project here:",
+        "link": "https://molcajetestudios.netlify.app/"
+    },
+    {
+        "title": "The Music Blog",
+        "image": "/img/portfolio_the_music_blog.jpg",
+        "description": "Check the live demo of this project here:",
+        "link": "https://themusicblog.netlify.app/"
+    },
+    {
+        "title": "Dulce Tentación",
+        "image": "/img/portfolio_dulce_tentacion.jpg",
+        "description": "Check the live demo of this project here:",
+        "link": "https://dulcetentacioncol.netlify.app/"
+    }
+]
