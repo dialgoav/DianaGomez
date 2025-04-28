@@ -1,15 +1,21 @@
 [
     {
+        "title": "Lluju",
+        "image": "/img/portfolio_lluju.jpg",
+        "description": "Check this website here:",
+        "link": "https://lluju.com/"
+    },
+    {
         "title": "Loading Watermelon",
         "image": "/img/portfolio_watermelon.jpg",
         "description": "Check the live demo of this project here:",
         "link": "https://loadingwatermelon.netlify.app/"
     },
     {
-        "title": "Lluju",
-        "image": "/img/portfolio_lluju.jpg",
-        "description": "Check this website here:",
-        "link": "https://lluju.com/"
+        "title": "Melody",
+        "image": "/img/portfolio_melody.jpg",
+        "description": "Check the live demo of this project here:",
+        "link": "https://musicappmelody.netlify.app/"
     },
     {
         "title": "Molcajete Studios",
